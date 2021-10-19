@@ -3,5 +3,6 @@ Convolutional Neural Networks to classify images from a dataset as either Rock, 
 
 
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/90579801/137851479-46f50dcf-beed-4389-92de-d1e282f69dcd.PNG">
+<img width="356" alt="Image 2" src="https://user-images.githubusercontent.com/90579801/137852285-22dc596c-d186-4b1f-9110-7ac4df0938e7.PNG">
 
 
